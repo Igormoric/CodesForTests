@@ -5,6 +5,9 @@ import json
 import os
 import time
 
+# create by GPT4.o
+#modified by IMT
+
 # Configurações iniciais
 SCREEN_WIDTH, SCREEN_HEIGHT = 800, 600
 FPS = 60
